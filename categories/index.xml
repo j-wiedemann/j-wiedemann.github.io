@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on FreeCAD France</title>
-    <link>https://j-wiedemann.github.io/categories/</link>
+    <link>https://freecad-france.com/categories/</link>
     <description>Recent content in Categories on FreeCAD France</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="https://j-wiedemann.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://freecad-france.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
