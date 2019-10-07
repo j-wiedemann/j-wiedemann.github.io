@@ -262,18 +262,18 @@
     <div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
       
       <h2>Me contacter</h2>
-      <p>Merci de remplir le formulaire suivant pour obtenir les programmes des formations ou de plus amples renseignements.</p>
+      <p>Pour obtenir de plus amples renseignements sur les prestations proposées merci de remplir le formulaire ci-dessous.<br> Pour les demandes d&rsquo;aides à l&rsquo;installation et à l&rsquo;utilisation de FreeCAD, merci de vous diriger vers le <a href='https://forum.freecadweb.org/viewforum.php?f=12'>forum<a/>.</p>
       
     </div>
     
-    <form name="contact-form" action="https://formspree.io/contact@freecad-france.com" method="POST">
+    <form id="contact-fc" name="contact-form" action="https://formspree.io/contact@freecad-france.com" method="POST">
     
       <div class="row">
 	<div class="col-md-6">
 	  <div class="form-group">
 	    
 		  
-	    <input type="text" class="form-control" id="inputName" placeholder="Votre nom" name="_name">
+	    <input type="text" class="form-control" id="inputName" placeholder="Votre nom" name="_name" required>
 		  
 	  </div>
 	</div>
@@ -285,10 +285,11 @@
 		  
 	  </div>
 	</div>
+	
 	<div class="col-md-12">
 	  <div class="form-group">
 		  
-	    <textarea class="form-control" id="inputBody" cols="30" rows="7" placeholder="Votre message." name="message"></textarea>
+	    <textarea class="form-control" id="inputBody" cols="30" rows="7" placeholder="Votre message." name="message" required></textarea>
 		  
 	  </div>
 	</div>
