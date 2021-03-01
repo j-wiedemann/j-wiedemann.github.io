@@ -8,9 +8,10 @@
 body {
   font-family: "Open Sans", Arial, sans-serif;
   font-size: 18px;
-  font-weight: 300;
+  font-weight: 500;
   line-height: 1.8;
   color: #949494;
+  color: #6e6e6e;
 }
 body.fh5co-overflow {
   overflow-x: hidden;
@@ -261,10 +262,11 @@ p {
   padding: 35px 0;
   margin-right: 30px;
   color: #ccc;
+  color: #6e6e6e;
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-size: 15px;
-  font-weight: 400;
+  font-size: 17px;
+  font-weight: 700;
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
@@ -931,7 +933,7 @@ p {
   padding: 0 10px;
 }
 #fh5co-footer .fh5co-social li a i {
-  font-size: 18px;
+  font-size: 32px;
 }
 #fh5co-footer .fh5co-social li a:hover, #fh5co-footer .fh5co-social li a:focus, #fh5co-footer .fh5co-social li a:active {
   text-decoration: none;
