@@ -4,7 +4,8 @@
     <title>FreeCAD France</title>
     <link>https://freecad-france.com/</link>
     <description>Recent content on FreeCAD France</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://freecad-france.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <atom:link href="https://freecad-france.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -4,7 +4,8 @@
     <title>Categories on FreeCAD France</title>
     <link>https://freecad-france.com/categories/</link>
     <description>Recent content in Categories on FreeCAD France</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://freecad-france.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <atom:link href="https://freecad-france.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
